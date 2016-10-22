@@ -2,9 +2,9 @@ Bootstrap Layouts
 =================
 
 Generic Bootstrap layouts. Use as:
-* HTML boilerplate
+* HTML boilerplates
 * Jekyll _layouts
-* Codepen template
+* Codepen templates
 
 
 ## Base layout
