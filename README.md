@@ -7,7 +7,7 @@ Generic Bootstrap layouts. Use as:
 * Codepen templates
 
 
-## Base layout
+## Base
 
 [![html](https://img.shields.io/badge/html--orange.svg)](https://github.com/highweb/bootstrap-layouts/blob/master/base.html)
 [![jekyll](https://img.shields.io/badge/jekyll--red.svg)](https://github.com/highweb/bootstrap-layouts/blob/master/base.html)
