@@ -1,7 +1,7 @@
 Bootstrap Layouts
 =================
 
-Generic Bootstrap layouts. Use as:
+Generic Bootstrap layouts available as:
 * HTML boilerplates
 * Jekyll _layouts
 * Codepen templates
