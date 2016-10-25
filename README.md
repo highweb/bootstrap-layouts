@@ -1,6 +1,8 @@
 Bootstrap Layouts
 =================
 
+[![npm version](https://img.shields.io/npm/v/bootstrap-layouts.svg)](https://www.npmjs.com/package/bootstrap-layouts)
+
 > Now part of [Bootstrap Kit](https://bootstrap-kit.com/)!
 
 Generic Bootstrap layouts available as:
