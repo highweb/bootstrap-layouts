@@ -2,7 +2,7 @@
 layout: base
 ---
 
-<header class="jumbotron jumbotron-fluid bg-inverse bg-glow-top text-white">
+<header class="jumbotron jumbotron-fluid bg-inverse bg-glow-top text-white mb-0">
   <div class="container">
     {% if page.header %}
     {{ page.header }}
@@ -12,8 +12,8 @@ layout: base
   </div>
 </header>
 
-<main class="py-3">
-  <div class="container">
+<main>
+  <div class="container py-5">
     {{ content }}
   </div>
 </main>
